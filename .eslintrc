@@ -1,0 +1,9 @@
+{
+    "extends": "next",
+    "root": true,
+    "rules": {
+        "indent": ["error", 4],
+        "quotes": ["error", "double"],
+        "semi": ["error", "always"]
+    }
+}
